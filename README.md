@@ -1,4 +1,4 @@
-# LST Super-Resolution with SRCNN (Remote Sensing & GIS Internship)
+# LST Super-Resolution with SRCNN
 
 **Assignment**: Enhance coarse-resolution Land Surface Temperature (LST) imagery using **Super-Resolution Convolutional Neural Network (SRCNN)** to generate higher-resolution outputs.  
 
